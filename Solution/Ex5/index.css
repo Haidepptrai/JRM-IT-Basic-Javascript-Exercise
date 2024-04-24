@@ -1,0 +1,12 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+#add-student {
+  margin-top: 20px;
+}
+
+input,
+button {
+  margin-bottom: 10px;
+}
